@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/travel-1.jpg",
+        "alt":"Coliseum",
+        "name":"Coliseum",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-2.jpg",
+        "alt":"Machu Pichu",
+        "name":"Machu Pichu",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-3.jpg",
+        "alt":"Acropolis of Athens",
+        "name":"Acropolis of Athens",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-4.jpg",
+        "alt":"Taj Mahal",
+        "name":"Taj Mahal",
+        "button": "View Destination"
+    }
+]
