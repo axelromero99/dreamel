@@ -6,9 +6,9 @@
 
 </h1>
 
-For learning purposes, i watched a video for creating a web page in Gatsby. It is responsive and have and nice advanced CSS. 
+For learning purposes, i watched a video for creating a web page in Gatsby. It is responsive and have and nice advanced CSS. Also uses styled components
 
-When i finished the tutorial, i decided to personalize some of the code a little bit.
+When i finished the tutorial, i decided to personalize some of the code a little bit, change the content, images and style based on my criteria.
 
 The link of the tutorial is: [Build a Responsive Website using React, Gatsby, and GraphQL](https://www.youtube.com/watch?v=smHhNzM5Uo4)
 
